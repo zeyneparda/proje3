@@ -1,6 +1,7 @@
 # proje3
 Binary Search Tree Projesi
 SORU 1
+
 [7, 5, 1, 8, 3, 6, 0, 9, 4, 2] dizisinin Binary-Search-Tree aşamaları:
 
                                                                     ROOT ["5"]
@@ -23,4 +24,4 @@ SORU 1
                                                 ["3"]                                     ["6"]
                                          ["2"]        ["4"]                        ["7"]        ["8"]
                                    ["1"]                                                              ["9"]
-                                   ["0"]
+                             ["0"]
