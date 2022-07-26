@@ -5,6 +5,7 @@ SORU 1
 
                     ROOT "5"
                     
-root'un sağında "3" solunda "7" bulunur
+                    root'un sağında "3" solunda "7" bulunur
+                    
              ["3"]             ["7"] 
 sağında "1" solunda "2" bulunur
