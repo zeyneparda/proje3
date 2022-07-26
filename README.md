@@ -13,6 +13,6 @@ SORU 1
        sağında "1"                                                                                                                  solunda "9" 
        
              ["1"]                                                                                                                          ["9"]
-             sağında "0"
+     sağında "0"
    
    ["0"]   
